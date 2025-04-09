@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+networkx
+python-igraph
+tensorflow
+keras
+kerastuner
